@@ -2,7 +2,6 @@
 
 ![Gameplay](https://i.ibb.co/4P2C08x/image.png)
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
 
 ## Instructions on Setting Up the Web3 Part of the Project
 
@@ -14,7 +13,7 @@ npx hardhat
 
 npm install @openzeppelin/contracts dotenv @nomiclabs/hardhat-ethers
 npm install --save-dev hardhat@^2.12.0 @nomicfoundation/hardhat-toolbox@^2.0.0
-
+```
 
 3. Install Metamask Smart Wallet Alternative for Avalanche dApps
 Open the Core extension.
